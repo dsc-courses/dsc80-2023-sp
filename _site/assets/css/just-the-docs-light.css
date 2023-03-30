@@ -2465,11 +2465,13 @@ a.skip-to-main:focus, a.skip-to-main:active { color: #7253ed; background-color: 
 .staffer { display: flex; margin: 1rem; }
 .staffer .staffer-image { border-radius: 50%; height: 100px; margin-right: 1rem; }
 .staffer p, .staffer .staffer-name { margin: 0.25rem !important; }
-.staffer .staffer-pronouns { user-select: none; }
+.staffer .staffer-pronouns { padding: 2px 4px; border-radius: 4px; user-select: none; }
 
-.badge-ta { display: inline-block; background-color: #0e5cc1; font-size: 12px; color: white; padding: 2px 4px; text-align: center; border-radius: 9px; width: 45px; }
+.badge-ta { display: inline-block; background-color: #0e5cc1; font-size: 12px; color: white; padding: 2px 4px; text-align: center; border-radius: 4px; width: 45px; }
 
-.badge-tutor { display: inline-block; background-color: #89CFF0; font-size: 12px; color: white; padding: 2px 4px; text-align: center; border-radius: 9px; width: 45px; }
+.badge-tutor { display: inline-block; background-color: #89CFF0; font-size: 12px; color: white; padding: 2px 4px; text-align: center; border-radius: 4px; width: 45px; }
+
+.badge-instructor { display: inline-block; background-color: black; font-size: 12px; color: white; padding: 2px 4px; text-align: center; border-radius: 4px; width: 45px; }
 
 div.opaque { background-color: #fff; }
 
