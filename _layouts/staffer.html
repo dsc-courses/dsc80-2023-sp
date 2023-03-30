@@ -39,6 +39,13 @@
   {% endif %}
   <div>
     <h3 class="staffer-name">
+      {% if page.role %}
+      {% if page.role == 'TA' %}
+      <span class="badge-ta">{{ page.role }}</span><br>
+      {% elsif page.role == 'Tutor' %}
+      <span class="badge-tutor">{{ page.role }}</span><br>
+      {% else %} 
+      {% endif %}
       {% if page.website %}
       <a href="{{ page.website }}">{{ page.name }}</a>
       {% else %}
@@ -52,19 +59,7 @@
     {% if page.email %}
     <a href="mailto:{{ page.email }}">{{ page.email }}</a>
     {% endif %}
-    {% if page.role %}
-      <!-- {% if page.role == 'TA' %}
-        • <span class="badge-ta">{{ page.role }}</span>
-      {% elsif page.role == 'Tutor' %}
-        • {{ page.role }}
-      {% endif %} -->
-      {% if page.role == 'TA' %}
-        • <span class="badge-ta">{{ page.role }}</span>
-      {% elsif page.role == 'Tutor' %}
-      • <span class="badge-tutor">{{ page.role }}</span>
-      {% else %}
-        
-{% endif %}
+
     {% endif %}
     {% if page.lecture %}
     <p><b>Lecture:</b> {{ page.lecture }}</p>
