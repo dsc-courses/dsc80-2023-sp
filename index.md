@@ -17,8 +17,8 @@ nav_order: 1
 
 [Jump to the current week](#week-1-from-babypandas-to-pandas){: .btn }
 
-{: .note }
-**This site is under construction and everything is subject to change ⚠️**
+{: .warning }
+**This site is under construction and everything is subject to change.**
 
 <!-- {: .note }
 **Some office hours on Wednesday 3/8, Thursday 3/9, and Tuesday 3/21 are being held in the SDSC Auditorium instead of the 2nd floor – look closely at the [calendar](calendar) for details.** Treat these office hours as study sessions – come to them to work on projects or study for the final exam! -->
