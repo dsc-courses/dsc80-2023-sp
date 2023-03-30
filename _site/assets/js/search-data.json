@@ -259,7 +259,7 @@
   },"43": {
     "doc": "📚 Resources",
     "title": "Videos",
-    "content": ". | Working on Assignments in DSC 80 (Winter 2023 edition) | Working with the command-line in DSC 80 | . ",
+    "content": ". | Working on Assignments in DSC 80 | Working with the command-line in DSC 80 | . ",
     "url": "/resources/#videos",
     "relUrl": "/resources/#videos"
   },"44": {
@@ -319,7 +319,7 @@
   },"53": {
     "doc": "🙋‍♂️ Tech Support",
     "title": "Introduction",
-    "content": "Assignments in DSC 80 are mostly coding assignments, so it’s important to make sure that your computing environment is set up properly. There are two ways to go about things: you can set up a local environment or use a remote environment that is largely pre-configured. On this page, we’ll talk about both options. Writing code locally, on your personal computer, is our preferred option. We won’t lie – it involves a little more time to set up and a steeper learning curve. But in the long run, you’ll likely find the local environment more comfortable and faster since you can customize it to your own needs. Additionally, setting up your own local Python environment is something you’ll be expected to do when working as a data scientist, so it’s a good idea to start now. There has been a lot written about how to set up a Python environment, so we won’t reinvent the wheel. This page will only be a summary; Google will be your main resource. But always feel free to come to a staff member’s office hours if you have a question about setting up your environment, using Git, or similar — we’re here to help. This video contains a walkthrough of many of the details on this page. It’s not a substitute for reading this page, though. ",
+    "content": "Assignments in DSC 80 are mostly coding assignments, so it’s important to make sure that your computing environment is set up properly. There are two ways to go about things: you can set up a local environment or use a remote environment that is largely pre-configured. On this page, we’ll talk about both options. Writing code locally, on your personal computer, is our preferred option. We won’t lie – it involves a little more time to set up and a steeper learning curve. But in the long run, you’ll likely find the local environment more comfortable and faster since you can customize it to your own needs. Additionally, setting up your own local Python environment is something you’ll be expected to do when working as a data scientist, so it’s a good idea to start now. There has been a lot written about how to set up a Python environment, so we won’t reinvent the wheel. This page will only be a summary; Google will be your main resource. But always feel free to come to a staff member’s office hours if you have a question about setting up your environment, using Git, or similar — we’re here to help. This video contains a walkthrough of many of the details on this page. It’s not a substitute for reading this page, though. The video above was recorded in Winter 2023, but it is still applicable for Spring 2023. To follow along with the video, all you need to do is change ‘2023-wi’ to ‘2023-sp’ in the video. ",
     "url": "/tech_support/#introduction",
     "relUrl": "/tech_support/#introduction"
   },"54": {

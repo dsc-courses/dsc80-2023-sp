@@ -31,7 +31,7 @@ Past exams with detailed solutions can be found at [practice.dsc80.com](https://
 
 ## Videos
 
-- [Working on Assignments in DSC 80 (Winter 2023 edition)](https://youtu.be/PPKXJqu2XmY)
+- [Working on Assignments in DSC 80](https://youtu.be/PPKXJqu2XmY)
 - [Working with the command-line in DSC 80](https://www.youtube.com/watch?v=uUawZfAgA64)
 
 ---
