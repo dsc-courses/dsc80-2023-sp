@@ -14,9 +14,14 @@ nav_order: 6
 {{ staffer }}
 {% endfor %}
 
-## Tutors
+## Staff
 
-{% assign staff = site.staffers | where: 'role', 'Staff' %}
+{% assign tas = site.staffers | where: 'role', 'TA' %}
+{% for staffer in tas %}
+{{ staffer }}
+{% endfor %}
+
+{% assign staff = site.staffers | where: 'role', 'Tutor' %}
 <div class="role">
   {% for staffer in staff %}
   {{ staffer }}

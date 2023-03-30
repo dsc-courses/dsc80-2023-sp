@@ -1,6 +1,6 @@
 ---
 name: Tiffany Yu
-role: Staff
+role: Tutor
 pronouns: she/her
 email: z5yu@ucsd.edu
 photo: assets/images/tiffany-yu.jpg

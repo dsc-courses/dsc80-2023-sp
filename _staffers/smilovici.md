@@ -1,6 +1,6 @@
 ---
 name: Costin Smilovici
-role: Staff
+role: Tutor
 pronouns: he/him
 email: csmilovi@ucsd.edu
 photo: assets/images/costin-smilovici.jpg

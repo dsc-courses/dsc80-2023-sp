@@ -1,6 +1,6 @@
 ---
 name: Yuxin Guo
-role: Staff
+role: Tutor
 pronouns: she/her
 email: y5guo@ucsd.edu
 photo: assets/images/yuxin-guo.jpg

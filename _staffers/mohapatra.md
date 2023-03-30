@@ -1,6 +1,6 @@
 ---
 name: Aishani Mohapatra
-role: Staff
+role: Tutor
 pronouns: she/her
 email: aimohapatra@ucsd.edu
 photo: assets/images/mohapatra.png

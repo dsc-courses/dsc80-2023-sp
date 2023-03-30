@@ -1,6 +1,6 @@
 ---
 name: Yujia Wang
-role: Staff
+role: Tutor
 pronouns: she/her
 email: yuw103@ucsd.edu
 photo: assets/images/wang.png
