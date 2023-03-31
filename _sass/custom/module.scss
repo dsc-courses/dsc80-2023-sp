@@ -2,10 +2,10 @@
   @extend .card;
 
   .module-days {
-    grid-template-columns: 1fr 4fr;
+    grid-template-columns: minmax(100px, 1fr) 4fr;
 
     @include mq(lg) {
-      grid-template-columns: 1fr 7fr;
+      grid-template-columns: minmax(150px, 1fr) 7fr;
     }
   }
 }
@@ -65,6 +65,10 @@
         width: auto;
       }
     }
+
+    a {
+      white-space: normal;
+    }
   }
 
   .module-day {
@@ -78,12 +82,13 @@
       padding-top: 0;
     }
 
-    .label-lecture { background-color: #ECEBED; text-align: center; border-radius: 9px; width: 60px; }
-    .label-disc { background-color: #779ECC; text-align: center; border-radius: 9px; width: 60px; }
-    .label-proj { background-color: #E94C4B; text-align: center; border-radius: 9px; width: 60px; }
-    .label-exam { background-color: #000000; text-align: center; border-radius: 9px; width: 60px; }
-    .label-lab { background-color: #F2C76E; text-align: center; border-radius: 9px; width: 60px; }
-    .label-survey { background-color: #15c791; text-align: center; border-radius: 9px; width: 60px; }
+    .label-lecture { background-color: #ECEBED; text-align: center; border-radius: 6px; width: 60px; }
+    .label-disc { background-color: #779ECC; text-align: center; border-radius: 6px; width: 60px; }
+    .label-hw { background-color: #E94C4B; text-align: center; border-radius: 6px; width: 60px; }
+    .label-proj { background-color: #FF8144; text-align: center; border-radius: 6px; width: 60px; }
+    .label-exam { background-color: #000000; text-align: center; border-radius: 6px; width: 60px; }
+    .label-lab { background-color: #F2C76E; text-align: center; border-radius: 6px; width: 60px; }
+    .label-survey { background-color: #15c791; text-align: center; border-radius: 6px; width: 60px; }
 
     // .label-vit { background-color: #c1443c; text-align: center; border-radius: 9px; }
     // .label-live { background-color: #63c082; text-align: center; border-radius: 9px; }
