@@ -17,9 +17,8 @@ nav_order: 2
 
 ---
 
-Coming soon 👀
 
-<!-- ## About 🧐
+## About 🧐
 
 DSC 80 serves as a bridge between lower-division and upper-division data science courses. In DSC 80, students will gain proficiency with the data science life cycle and learn many of the fundamental principles and techniques of data science spanning algorithms, statistics, machine learning, visualization, and data systems. 
 
@@ -37,13 +36,11 @@ The course website, [dsc80.com](https://dsc80.com), will contain links to all co
 
 You'll need to make accounts on the following sites:
 
-- **Ed:** We’ll be using Ed as our course message and discussion board. More details are in the [Communication](#communication-) section below. If you didn’t already get an invitation to our Ed course, [sign up here](https://edstem.org/us/join/xDZrdr).
+- **Ed:** We’ll be using Ed as our course message and discussion board. More details are in the [Communication](#communication-) section below. If you didn’t already get an invitation to our Ed course, [sign up here](https://edstem.org/us/join/vMwSgC).
 
-- **Gradescope:** You’ll submit all assignments and exams to [Gradescope](https://www.gradescope.com/courses/478969). This is where all of your grades will live as well. Most of the assignments will be
-coding assignments. Parts of these assignments will be manually graded, but most of them will be autograded. You should have received an email
-invitation for Gradescope, but if not please let us know as soon as possible (preferably via Ed).
+- **Gradescope:** You’ll submit all assignments and exams to [Gradescope](https://www.gradescope.com/courses/526127). This is where all of your grades will live as well. Most of the assignments will be coding assignments. Parts of these assignments will be manually graded, but most of them will be autograded. You should have received an email invitation for Gradescope, but if not please let us know as soon as possible (preferably via Ed).
 
-- **GitHub:** Like in DSC 30, you'll _access_ all course content (lecture slides and assignments) by _pulling_ our course GitHub repository. That repo is here: [github.com/dsc-courses/dsc80-2023-wi](https://github.com/dsc-courses/dsc80-2023-wi). In most assignments, you won't need to _push_ anything to GitHub, however in Projects 3 and 5 you will, and so you'll need to have an account by then.
+- **GitHub:** Like in DSC 30, you'll _access_ all course content (lecture slides and assignments) by _pulling_ our course GitHub repository. That repo is here: [github.com/dsc-courses/dsc80-2023-sp](https://github.com/dsc-courses/dsc80-2023-sp). In most assignments, you won't need to _push_ anything to GitHub, however in Projects 3 and 5 you will, and so you'll need to have an account by then.
 
 - **Zoom (optional):** To access remote office hours, if you'd like.
 
@@ -55,7 +52,7 @@ As soon as you are able to, go follow the steps in the [Tech Support](../tech_su
 
 ### Forms
 
-Please fill out the [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSe0_yIwytkjirqN26bMonQ3wQTzX7itZXd8KBeglaUeAZtIhA/viewform) to tell us a bit more about yourself and tell us if you need an alternate exam.
+Please fill out the [Welcome Survey](https://forms.gle/fGSiAAAzSQteLqvn9) to tell us a bit more about yourself and tell us if you need an alternate exam.
 
 ---
 
@@ -75,19 +72,19 @@ Course staff will regularly check Ed and try to answer any questions that you ha
 
 ### Lectures
 
-Lectures will be held in-person on Mondays, Wednesdays, and Fridays from 12-12:50PM in [Mosaic Hall 114](https://goo.gl/maps/irMmi7i1t4Bd6x7x6) (Mosaic Hall is in New Sixth College). Attendance is not required, **though you are encouraged to attend in-person if you are able to**. Lectures will be podcasted.
+Lectures will be held in-person on Mondays, Wednesdays, and Fridays from 12-12:50PM in [Mandeville Auditorium B-210]. Attendance is not required, **though you are encouraged to attend in-person if you are able to**. Lectures will be podcasted.
 
-Lecture notebooks will be your main resource in this class. You can access them, along with all course materials, by pulling from the course GitHub repository, [github.com/dsc-courses/dsc80-2023-wi](https://github.com/dsc-courses/dsc80-2023-wi). We will also link HTML previews of each lecture notebook from the course homepage; you can use these to annotate the lecture notebooks with a tablet, if you'd like.
+Lecture notebooks will be your main resource in this class. You can access them, along with all course materials, by pulling from the course GitHub repository, [github.com/dsc-courses/dsc80-2023-sp](https://github.com/dsc-courses/dsc80-2023-sp). We will also link HTML previews of each lecture notebook from the course homepage; you can use these to annotate the lecture notebooks with a tablet, if you'd like.
 
 There is also a set of notes written by Aaron Fraenkel for this course that can be found at [notes.dsc80.com](https://notes.dsc80.com), though they are a work in progress.
 
 ### Discussions and Lab Reflections
 
-Starting in Week 2, discussions will be held in-person on Wednesdays from 5-5:50PM in [Mosaic Hall 114](https://goo.gl/maps/irMmi7i1t4Bd6x7x6), the same room as lecture. Discussion sections will be podcasted.
+Starting in Week 2, discussions will be held in-person on Wednesdays from 5-5:50PM in [Mandeville Auditorium B-210], the same room as lecture. Discussion sections will be podcasted.
 
 You'll spend the vast majority of your time in this course on [labs](#labs) and [projects](#projects), which you'll read more about in the sections below. The labs you complete each week will give you hands-on practice with the tools and techniques introduced in lectures. While completing the labs is important, it's also important to _reflect_ on your lab work once grades are released, and think about how you could have approached problems differently (e.g. more efficiently).
 
-To this effect, we're piloting a new discussion format in Winter 2023. In discussion sections on Wednesdays, we will take up solutions to a _subset_ of the lab that was due that Monday (2 days **before** discussion). When you attend, you'll have a chance to discuss your implementation with course staff and hear how others attempted the problems. Hopefully, you'll leave with a stronger understanding of the learning objectives of the lab.
+To this effect, we're piloting a new discussion format in Spring 2023. In discussion sections on Wednesdays, we will take up solutions to a _subset_ of the lab that was due that Monday (2 days **before** discussion). When you attend, you'll have a chance to discuss your implementation with course staff and hear how others attempted the problems. Hopefully, you'll leave with a stronger understanding of the learning objectives of the lab.
 
 To encourage you to attend and reflect, we will offer extra credit to those who do **all 3** of the following:
 1. Submit the lab.
@@ -106,7 +103,7 @@ There will be **9 lab assignments** due weekly throughout the
 quarter. Each lab assignment will consist of a mixture of coding and free
 response questions. Coding questions will ask you to fill in the body of
 a function. Public tests are usually provided so that you can make sure that
-you\'re on the right track (*a la* DSC 20), however, your submission
+you\'re on the right track (*similar to* DSC 20), however, your submission
 will be graded using a private autograder with hidden tests.
 
 Each lab is worth the same amount, but the lowest lab will be dropped
@@ -170,11 +167,11 @@ To summarize all of the events and deadlines, refer to this general weekly sched
 
 This class has one Midterm Exam and one Final Exam. Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam.
 
-- **Midterm Exam**: Wednesday, February 15th, 12-12:50PM, Mosaic Hall 114 (during lecture)
+- **Midterm Exam**: Friday, May 5th, 12-12:50PM, Mandeville Auditorium B-210 (during lecture)
 
-- **Final Exam:** Wednesday, March 22nd, 11:30AM-2:30PM, location TBD
+- **Final Exam:** Wednesday, June 14th, 11:30AM-2:30PM, location TBD
 
-**Both exams will be administered in-person**. If you have conflicts with either of the exams, please let us know on the [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSe0_yIwytkjirqN26bMonQ3wQTzX7itZXd8KBeglaUeAZtIhA/viewform).
+**Both exams will be administered in-person**. If you have conflicts with either of the exams, please let us know on the [Welcome Survey](https://forms.gle/fGSiAAAzSQteLqvn9).
 
 ### Redemption Policy
 
@@ -192,11 +189,11 @@ Here is how we'll compute your grade:
 
 | Component | Weight | Notes |
 | --- | --- | --- |
-| Labs | 35% | 4.375% per lab, lowest dropped |
+| Labs | 30% | 3.75% per lab, lowest dropped |
 | Projects | 35% | 7% per project, no drops |
 | Project Checkpoints | 5% | 1% per project, no drops* |
 | Midterm Exam | 10% | see the Redemption Policy above |
-| Final Exam | 15% | |
+| Final Exam | 20% | |
 | Discussion Attendance + Lab Reflections | 2.7% (extra credit) | 0.3% per lab |
 
 *Since Projects 3 and 5 do not have checkpoints, everyone who submits Projects 3 and 5 will automatically receive the 1% checkpoint credit.
@@ -229,7 +226,7 @@ is clarity, so if your answer was mostly right but unclear you may still not be 
 
 **Regrade Requests for Autograded Problems**
 
-To submit an autograder regrade request, please fill out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdQL9-P-ZuTBKcOmYAOKsaptfcy-S6PS7Ihz6ORjaUU1Jy4Ug/viewform).
+To submit an autograder regrade request, please fill out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfIOesLhFY7ZWUDKrEdINZ6_UlxOExOwOoW46MwVlr2dL2lDA/viewform).
 
 The autograder is very picky: it expects your assignments to have
 exactly the correct file names, all functions must be named correctly,
@@ -251,7 +248,7 @@ a later date, you have some options:
     mechanism to submit an assignment late.
 2.  If it is past the late deadline **and** your code requires only
     minor fixes (e.g., the file name is wrong) we will fix your code at
-    the cost of **2** slip days. Note that these slip days are in addition to any slip days you already used on the assignment. You can submit a catastrophe regrade request the same way you submit a regular autograder regrade request, by filling out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdQL9-P-ZuTBKcOmYAOKsaptfcy-S6PS7Ihz6ORjaUU1Jy4Ug/viewform). 
+    the cost of **2** slip days. Note that these slip days are in addition to any slip days you already used on the assignment. You can submit a catastrophe regrade request the same way you submit a regular autograder regrade request, by filling out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfIOesLhFY7ZWUDKrEdINZ6_UlxOExOwOoW46MwVlr2dL2lDA/viewform). 
 
 
 
@@ -347,4 +344,4 @@ to you, including:
 
 This offering of DSC 80 builds off of prior offerings by Justin Eldridge, Marina Langlois, and Aaron Fraenkel. Along with the help of their tutors and TAs, they developed much of the content that we will use in this course.
 
---- -->
+---
