@@ -342,6 +342,6 @@ to you, including:
 
 ## Acknowledgements 🙏
 
-This offering of DSC 80 builds off of prior offerings by Justin Eldridge, Marina Langlois, and Aaron Fraenkel. Along with the help of their tutors and TAs, they developed much of the content that we will use in this course.
+This offering of DSC 80 builds off of prior offerings by Suraj Rampure, Justin Eldridge, Marina Langlois, and Aaron Fraenkel. Along with the help of their tutors and TAs, they developed much of the content that we will use in this course.
 
 ---
