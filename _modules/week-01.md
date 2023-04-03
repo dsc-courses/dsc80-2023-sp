@@ -4,7 +4,7 @@
     days:
       - date: 2023-4-3
         events:
-          "**LEC 1**{: .label .label-lecture } Introduction":
+          "**LEC 1**{: .label .label-lecture } [Introduction](resources/lectures/lec01/lec01.html)":
             "[Ch. 1](https://notes.dsc80.com/content/01/introduction.html)"
       - date: 2023-4-5
         events:
