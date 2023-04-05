@@ -6,8 +6,7 @@
         events:
           "**LEC 4**{: .label .label-lecture } Grouping":
             "[Ch. 5.1](https://notes.dsc80.com/content/05/introduction.html)"
-          "**Lab 1**{: .label .label-lab } **Python, NumPy, and Pandas (due 4/10)**":
-            "https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/01-intro/lab.ipynb"
+          "**Lab 1**{: .label .label-lab } [Python, NumPy, and Pandas (due 4/10)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/01-intro/lab.ipynb)"
       - date: 2023-4-12
         events:
           "**LEC 5**{: .label .label-lecture } Pivoting and Simpson's Paradox":
