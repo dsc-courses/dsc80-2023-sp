@@ -16,15 +16,16 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 [Jump to the current week](#week-1-from-babypandas-to-pandas){: .btn }
-[Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue }
+<!-- [Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue } -->
 
 
 
 <!-- {: .warning }
 **This site is under construction and everything is subject to change.** -->
 
-<!-- {: .note }
-**Some office hours on Wednesday 3/8, Thursday 3/9, and Tuesday 3/21 are being held in the SDSC Auditorium instead of the 2nd floor – look closely at the [calendar](calendar) for details.** Treat these office hours as study sessions – come to them to work on projects or study for the final exam! -->
+{: .note }
+To view the lecture recordings, click on the 🎥 button for each lecture.
+<!-- **Some office hours on Wednesday 3/8, Thursday 3/9, and Tuesday 3/21 are being held in the SDSC Auditorium instead of the 2nd floor – look closely at the [calendar](calendar) for details.** Treat these office hours as study sessions – come to them to work on projects or study for the final exam! -->
 
 {% for module in site.modules %}
 {{ module }}
