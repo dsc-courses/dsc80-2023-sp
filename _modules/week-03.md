@@ -16,7 +16,7 @@
             ""
       - date: 2023-4-20
         events:
-          "**PROJ 1**{: .label .label-proj } **Gradebook 💯 (due 4/20)**":
+          "**PROJ 1**{: .label .label-proj } [Gradebook 💯 (due 4/20)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/01-gradebook/project.ipynb)":
       - date: 2023-4-21
         events:
           "**LEC 9**{: .label .label-lecture } Hypothesis Testing":

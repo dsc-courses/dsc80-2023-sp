@@ -16,7 +16,7 @@
             ""
       - date: 2023-4-13
         events:
-          "**PROJ 1**{: .label .label-proj } **Gradebook 💯 (Checkpoint due 4/13)**":
+          "**PROJ 1**{: .label .label-proj } [Gradebook 💯 (Checkpoint due 4/13)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/01-gradebook/project.ipynb)":
       - date: 2023-4-14
         events:
           "**LEC 6**{: .label .label-lecture } Concatenating and Merging":
