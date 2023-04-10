@@ -14,6 +14,6 @@
       - date: 2023-4-7
         events:
           "**LEC 3**{: .label .label-lecture } [More DataFrame Fundamentals](resources/lectures/lec03/lec03.html)":
-            " [Ch. 2](https://notes.dsc80.com/content/02/introduction.html), [3](https://notes.dsc80.com/content/03/introduction.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/3) / [Ch. 2](https://notes.dsc80.com/content/02/introduction.html), [3](https://notes.dsc80.com/content/03/introduction.html)"
                 
 ---
