@@ -5,11 +5,11 @@
       - date: 2023-4-10
         events:
           "**LEC 4**{: .label .label-lecture } [Grouping](resources/lectures/lec04/lec04.html)":
-            "[Ch. 5.1](https://notes.dsc80.com/content/05/introduction.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/4) / [Ch. 5.1](https://notes.dsc80.com/content/05/introduction.html)"
           "**Lab 1**{: .label .label-lab } [Python, NumPy, and Pandas (due 4/10)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/01-intro/lab.ipynb)":
       - date: 2023-4-12
         events:
-          "**LEC 5**{: .label .label-lecture } Pivoting and Simpson's Paradox":
+          "**LEC 5**{: .label .label-lecture } [Pivoting and Simpson's Paradox](resources/lectures/lec05/lec05.html)":
             " [Ch. 5.2](https://notes.dsc80.com/content/05/understanding-aggregations.html)"    
           "**SUR**{: .label .label-survey } **Welcome Survey**":
           "**DIS 1**{: .label .label-disc } **Lab 1 Reflection**":
