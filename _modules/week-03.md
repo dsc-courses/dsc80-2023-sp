@@ -8,7 +8,7 @@
             " [Ch. 4](https://notes.dsc80.com/content/04/introduction.html)"
                 
           "**Lab 2**{: .label .label-lab } [More Pandas (due 4/17)]
-          https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/02-pandas/lab.ipynb":
+          (https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/02-pandas/lab.ipynb)":
       - date: 2023-4-19
         events:
           "**LEC 8**{: .label .label-lecture } Unfaithful Data, Hypothesis Testing":
