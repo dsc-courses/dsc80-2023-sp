@@ -10,15 +10,15 @@
       - date: 2023-4-12
         events:
           "**LEC 5**{: .label .label-lecture } [Pivoting and Simpson's Paradox](resources/lectures/lec05/lec05.html)":
-            " [Ch. 5.2](https://notes.dsc80.com/content/05/understanding-aggregations.html)"    
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/5) / [Ch. 5.2](https://notes.dsc80.com/content/05/understanding-aggregations.html)"    
           "**SUR**{: .label .label-survey } **Welcome Survey**":
           "**DIS 1**{: .label .label-disc } **Lab 1 Reflection**":
-            ""
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a01/2)"
       - date: 2023-4-13
         events:
           "**PROJ 1**{: .label .label-proj } [Gradebook 💯 (Checkpoint due 4/13)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/01-gradebook/project.ipynb)":
       - date: 2023-4-14
         events:
           "**LEC 6**{: .label .label-lecture } Concatenating and Merging":
-            " [Ch. 5.3-5.4](https://notes.dsc80.com/content/05/appending-data.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/6) / [Ch. 5.3-5.4](https://notes.dsc80.com/content/05/appending-data.html)"
 ---
