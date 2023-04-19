@@ -4,7 +4,7 @@
     days:
       - date: 2023-4-17
         events:
-          "**LEC 7**{: .label .label-lecture } Relational Algebra, Data Cleaning":
+          "**LEC 7**{: .label .label-lecture } [Relational Algebra, Data Cleaning](resources/lectures/lec07/lec07.html)":
             "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/7) / [Ch. 4](https://notes.dsc80.com/content/04/introduction.html)"
           "**Lab 2**{: .label .label-lab } [More Pandas (due 4/17)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/02-pandas/lab.ipynb)":
       - date: 2023-4-19
