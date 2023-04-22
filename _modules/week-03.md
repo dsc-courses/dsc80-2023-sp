@@ -9,7 +9,7 @@
           "**Lab 2**{: .label .label-lab } [More Pandas (due 4/17)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/02-pandas/lab.ipynb)":
       - date: 2023-4-19
         events:
-          "**LEC 8**{: .label .label-lecture } Unfaithful Data, Hypothesis Testing":
+          "**LEC 8**{: .label .label-lecture } [Unfaithful Data, Hypothesis Testing](resources/lectures/lec08/lec08.html)":
             "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/8) / [CIT 11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
           "**DIS 2**{: .label .label-disc } **Lab 2 Reflection**":
             "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a01/3)"
@@ -19,6 +19,6 @@
       - date: 2023-4-21
         events:
           "**LEC 9**{: .label .label-lecture } Hypothesis Testing":
-            " [CIT 11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
+            "[🎥](https://www.dropbox.com/s/kqj0enuv1gemxpc/video1133947035.mp4?dl=0) / [CIT 11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
                 
 ---
