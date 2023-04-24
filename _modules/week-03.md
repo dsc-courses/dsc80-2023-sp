@@ -18,7 +18,7 @@
           "**PROJ 1**{: .label .label-proj } [Gradebook 💯 (due 4/20)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/01-gradebook/project.ipynb)":
       - date: 2023-4-21
         events:
-          "**LEC 9**{: .label .label-lecture } Hypothesis Testing":
+          "**LEC 9**{: .label .label-lecture } [Hypothesis Testing](resources/lectures/lec09/lec09.html)":
             "[🎥](https://www.dropbox.com/s/kqj0enuv1gemxpc/video1133947035.mp4?dl=0) / [CIT 11](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
                 
 ---
