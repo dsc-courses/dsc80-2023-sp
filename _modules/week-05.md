@@ -6,7 +6,7 @@
         events:
           "**LEC 13**{: .label .label-lecture } Imputation":
             " [Ch. 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)"
-          "**Lab 4**{: .label .label-lab } **Hypothesis and Permutation Testing (due 5/1)**":
+          "**Lab 4**{: .label .label-lab } [Hypothesis and Permutation Testing (due 5/1)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/04-hyp-perm/lab.ipynb)":
       - date: 2023-5-3
         events:
           "**LEC 14**{: .label .label-lecture } HTTP Basics":
