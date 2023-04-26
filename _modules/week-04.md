@@ -4,7 +4,7 @@
     days:
       - date: 2023-4-24
         events:
-          "**LEC 10**{: .label .label-lecture } [Permutation Testing](resources/lectures/lec10/lec10.html":
+          "**LEC 10**{: .label .label-lecture } [Permutation Testing](resources/lectures/lec10/lec10.html)":
             " [5.5](https://notes.dsc80.com/content/05/permutation-tests.html), [CIT 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
                 
           "**Lab 3**{: .label .label-lab } [Grouping, Pivoting, and Combining (due 4/24)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/03-group-pivot-combine/lab.ipynb)":
