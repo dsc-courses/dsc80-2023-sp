@@ -18,7 +18,7 @@
                 
       - date: 2023-4-27
         events:
-          "**PROJ 2**{: .label .label-proj } [Project 2 – COVID Vaccinations 🦠 (due 5/4)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/02-covid_vax/project.ipynb)":
+          "**PROJ 2**{: .label .label-proj } [COVID Vaccinations 🦠 (Checkpoint due 4/27)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/02-covid_vax/project.ipynb)":
       - date: 2023-4-28
         events:
           "**LEC 12**{: .label .label-lecture } Identifying Missingness Mechanisms":

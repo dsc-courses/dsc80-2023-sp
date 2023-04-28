@@ -15,7 +15,7 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-[Jump to the current week](#week-1-from-babypandas-to-pandas){: .btn }
+[Jump to the current week](#week-4-statistical-testing-and-missing-values){: .btn }
 <!-- [Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue } -->
 
 

@@ -15,7 +15,7 @@
             ""
       - date: 2023-5-4
         events:
-          "**PROJ 2**{: .label .label-proj } **TBA**":
+          "**PROJ 2**{: .label .label-proj } [COVID Vaccinations 🦠 (due 5/4)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/02-covid_vax/project.ipynb)":
       - date: 2023-5-5
         events:
           "**Exam**{: .label .label-exam } **Midterm Exam (in-person during lecture)**":
