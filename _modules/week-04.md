@@ -22,6 +22,6 @@
       - date: 2023-4-28
         events:
           "**LEC 12**{: .label .label-lecture } Identifying Missingness Mechanisms":
-            " [Ch. 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/12) / [Ch. 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)"
                 
 ---
