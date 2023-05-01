@@ -21,7 +21,7 @@
           "**PROJ 2**{: .label .label-proj } [COVID Vaccinations 🦠 (Checkpoint due 4/27)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/02-covid_vax/project.ipynb)":
       - date: 2023-4-28
         events:
-          "**LEC 12**{: .label .label-lecture } Identifying Missingness Mechanisms":
+          "**LEC 12**{: .label .label-lecture } [Identifying Missingness Mechanisms](resources/lectures/lec12/lec12.html), [Aside](resources/lectures/lec12/lec12-more-examples.html)":
             "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/12) / [Ch. 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)"
                 
 ---
