@@ -6,7 +6,7 @@
         events:
           "**LEC 15**{: .label .label-lecture } Requests and JSON":
             " [Ch. 7.1-7.2](https://notes.dsc80.com/content/07/introduction.html)"
-          "**Lab 5**{: .label .label-lab } **Missing Values and Imputation (due 5/8)**":
+          "**Lab 5**{: .label .label-lab } [Missing Values and Imputation (due 5/8)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/05-missing-imputation/lab.ipynb)":
       - date: 2023-5-10
         events:
           "**LEC 16**{: .label .label-lecture } Web Scraping and Parsing HTML":
