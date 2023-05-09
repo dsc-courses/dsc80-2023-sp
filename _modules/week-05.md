@@ -9,7 +9,7 @@
           "**Lab 4**{: .label .label-lab } [Hypothesis and Permutation Testing (due 5/1)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/04-hyp-perm/lab.ipynb)":
       - date: 2023-5-3
         events:
-          "**LEC 14**{: .label .label-lecture } HTTP Basics":
+          "**LEC 14**{: .label .label-lecture } [HTTP Basics](resources/lectures/lec14/lec14.html)":
             "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/14) / [Ch. 7.1-7.2](https://notes.dsc80.com/content/07/introduction.html)"
           "**DIS 4**{: .label .label-disc } **Lab 4 Reflection**":
             "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a01/5)"
