@@ -16,7 +16,7 @@
             ""
       - date: 2023-5-18
         events:
-          "**PROJ 3**{: .label .label-proj } **Exploratory Data Analysis 📊 (due 5/18, no checkpoint)**":
+          "**PROJ 3**{: .label .label-proj } [Exploratory Data Analysis 📊 (due 5/18, no checkpoint)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/03-topics/template.ipynb)":
       - date: 2023-5-19
         events:
           "**LEC 20**{: .label .label-lecture } Modeling and Regression":
