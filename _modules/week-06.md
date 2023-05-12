@@ -12,7 +12,7 @@
           "**LEC 16**{: .label .label-lecture } [Web Scraping and Parsing HTML](resources/lectures/lec16/lec16.html)":
             "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/17) / [Ch. 7.3](https://notes.dsc80.com/content/07/html.html)"
           "**DIS 5**{: .label .label-disc } **Lab 5 Reflection**":
-          "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a01/6)"
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a01/6)"
       - date: 2023-5-12
         events:
           "**LEC 17**{: .label .label-lecture } Regular Expressions":
