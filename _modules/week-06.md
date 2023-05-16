@@ -15,7 +15,7 @@
             "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a01/6)"
       - date: 2023-5-12
         events:
-          "**LEC 17**{: .label .label-lecture } Regular Expressions":
-            " [Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
+          "**LEC 17**{: .label .label-lecture } [Regular Expressions](resources/lectures/lec17/lec17.html)":
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/18) / [Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
 
 ---

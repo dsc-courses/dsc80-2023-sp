@@ -4,8 +4,8 @@
     days:
       - date: 2023-5-15
         events:
-          "**LEC 18**{: .label .label-lecture } Text Features":
-            " [Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
+          "**LEC 18**{: .label .label-lecture } [Text Features](resources/lectures/lec18/lec18.html)":
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/19) / [Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
           "**Lab 6**{: .label .label-lab } [HTTP and HTML (due 5/15)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/06-http/lab.ipynb)":
       - date: 2023-5-17
         events:
