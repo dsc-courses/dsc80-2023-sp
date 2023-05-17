@@ -10,7 +10,7 @@
       - date: 2023-5-17
         events:
           "**LEC 19**{: .label .label-lecture } Text Features, Continued":
-            "[Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
+            "[🎥](https://www.dropbox.com/sh/h52m4nvodgaz0bh/AAAiOSPB99NSmEXcv5tdS66Ra?dl=0) / [Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
 
           "**DIS 6**{: .label .label-disc } **Lab 6 Reflection**":
             ""
