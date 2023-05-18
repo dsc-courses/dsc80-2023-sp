@@ -6,7 +6,7 @@
         events:
           "**LEC 21**{: .label .label-lecture } Feature Engineering":
             " [Ch. 8.2](https://notes.dsc80.com/content/08/nlp.html)"
-          "**Lab 7**{: .label .label-lab } [Regular Expressions and Text Data (due 5/22](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/07-regex/lab.ipynb)":
+          "**Lab 7**{: .label .label-lab } [Regular Expressions and Text Data (due 5/22)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/07-regex/lab.ipynb)":
       - date: 2023-5-24
         events:
           "**LEC 22**{: .label .label-lecture } Feature Engineering, continued":
