@@ -15,7 +15,7 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-[Jump to the current week](#week-7-text-data){: .btn }
+[Jump to the current week](#week-6-http-html-and-regex){: .btn }
 <!-- [Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue } -->
 
 
