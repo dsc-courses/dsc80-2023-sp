@@ -15,7 +15,7 @@
             ""
       - date: 2023-5-25
         events:
-          "**PROJ 4**{: .label .label-proj } **Language Models 🗣 (Checkpoint due 5/25)**":
+          "**PROJ 4**{: .label .label-proj } [Language Models 🗣 (Checkpoint due 5/25)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/04-language-models/project.ipynb)":
       - date: 2023-5-26
         events:
           "**LEC 23**{: .label .label-lecture } Modeling in <code>sklearn</code>":
