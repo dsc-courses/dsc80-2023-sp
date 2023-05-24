@@ -19,7 +19,7 @@
           "**PROJ 3**{: .label .label-proj } [Exploratory Data Analysis 📊 (due 5/18, no checkpoint)](../project3)":
       - date: 2023-5-19
         events:
-          "**LEC 20**{: .label .label-lecture } Modeling and Regression":
-            " [Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
+          "**LEC 20**{: .label .label-lecture }[Modeling and Regression](resources/lectures/lec20/lec20.html)":
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/21) / [Ch. 8.1-8.2](https://notes.dsc80.com/content/08/introduction.html)"
                 
 ---
