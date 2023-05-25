@@ -10,7 +10,7 @@
       - date: 2023-5-24
         events:
           "**LEC 22**{: .label .label-lecture } Feature Engineering, continued":
-            " [Ch. 10.1](https://notes.dsc80.com/content/10/intro-modeling.html)"
+            "[🎥](https://www.dropbox.com/sh/akp0xgtok284pqx/AADSGlO4R2ye_akkL0Wk0S-Aa?dl=0) / [Ch. 10.1](https://notes.dsc80.com/content/10/intro-modeling.html)"
           "**DIS 7**{: .label .label-disc } **Lab 7 Reflection**":
             ""
       - date: 2023-5-25
