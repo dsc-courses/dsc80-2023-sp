@@ -12,7 +12,7 @@
             " [9.2](https://notes.dsc80.com/content/09/data-pipelines.html), [10.2](https://notes.dsc80.com/content/10/model-building.html), [11.2](https://notes.dsc80.com/content/11/fitting-prediction.html)"
 
           "**Lab 8**{: .label .label-lab } **[Modeling and Feature Engineering (due 5/31 at 4pm, no slipdays)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/08-features/lab.ipynb)**":
-          "**DIS 8**{: .label .label-disc } **Lab 8 Reflection (due 3/11)**":
+          "**DIS 8**{: .label .label-disc } **Lab 8 Reflection**":
             ""
       - date: 2023-6-1
         events:
