@@ -19,6 +19,6 @@
       - date: 2023-5-26
         events:
           "**LEC 23**{: .label .label-lecture } Modeling in <code>sklearn</code>":
-            " [Ch. 9.1](https://notes.dsc80.com/content/09/features.html), [11.1](https://notes.dsc80.com/content/11/fitting-inference.html)"
+            "[🎥](https://www.dropbox.com/sh/vr13s0owiuizd51/AABwxVYYEw1QDcNh-F8ZdMM6a?dl=0) / [Ch. 9.1](https://notes.dsc80.com/content/09/features.html), [11.1](https://notes.dsc80.com/content/11/fitting-inference.html)"
                 
 ---
