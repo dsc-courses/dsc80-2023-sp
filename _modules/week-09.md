@@ -8,7 +8,7 @@
 
       - date: 2023-5-31
         events:
-          "**LEC 24**{: .label .label-lecture } <code>sklearn</code> Pipelines, Regression Evaluation":
+          "**LEC 24**{: .label .label-lecture } [<code>sklearn</code> Pipelines, Regression Evaluation](resources/lectures/lec24/lec24.html)":
             " [9.2](https://notes.dsc80.com/content/09/data-pipelines.html), [10.2](https://notes.dsc80.com/content/10/model-building.html), [11.2](https://notes.dsc80.com/content/11/fitting-prediction.html)"
 
           "**Lab 8**{: .label .label-lab } **[Modeling and Feature Engineering (due 5/31 at 4pm, no slipdays)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/08-features/lab.ipynb)**":
