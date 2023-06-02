@@ -6,7 +6,7 @@
         events:
           "**LEC 26**{: .label .label-lecture } Decision Trees, Grid Search, Multicollinearity":     
             "" 
-          "**Lab 9**{: .label .label-lab } [Pipelines (due 6/6 at 4pm)]":
+          "**Lab 9**{: .label .label-lab } [Pipelines (due 6/6 at 4pm)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/09-sklearn/lab.ipynb)":
       - date: 2023-6-7
         events:
           "**LEC 27**{: .label .label-lecture } Classifier Evaluation, Fairness Criteria":
