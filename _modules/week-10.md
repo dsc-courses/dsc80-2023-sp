@@ -6,7 +6,7 @@
         events:
           "**LEC 26**{: .label .label-lecture } Decision Trees, Grid Search, Multicollinearity":     
             "" 
-          "**Lab 9**{: .label .label-lab } **Pipelines (due 6/5)**":
+          "**Lab 9**{: .label .label-lab } [Pipelines (due 6/6 at 4pm)]":
       - date: 2023-6-7
         events:
           "**LEC 27**{: .label .label-lecture } Classifier Evaluation, Fairness Criteria":
