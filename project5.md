@@ -37,7 +37,7 @@ Like Project 3, there is no checkpoint. Also, like in Project 3, you'll need to 
 ## Part 1: Analysis
 
 Before beginning your analysis, you'll need to set up a few things.
-1. Pull the latest version of the [`dsc80-2023-sp`](https://github.com/dsc-courses/dsc80-2023-sp/) repo. Within the `projects/05-prediction` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2023-sp/tree/main/projects/05-prediction/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the [`dsc80-2023-sp`](https://github.com/dsc-courses/dsc80-2023-sp/) repo. Within the `projects/05-prediction` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/05-topics-II/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 2. Load the dataset you chose for Project 3 into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
