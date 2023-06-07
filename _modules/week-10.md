@@ -4,12 +4,12 @@
     days:
       - date: 2023-6-5
         events:
-          "**LEC 26**{: .label .label-lecture } Decision Trees, Grid Search, Multicollinearity":     
+          "**LEC 26**{: .label .label-lecture } [Decision Trees, Grid Search, Multicollinearity](resources/lectures/lec26/lec26.html)":     
             "" 
           "**Lab 9**{: .label .label-lab } [Pipelines (due 6/6 at 4pm)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/09-sklearn/lab.ipynb)":
       - date: 2023-6-7
         events:
-          "**LEC 27**{: .label .label-lecture } Classifier Evaluation, Fairness Criteria":
+          "**LEC 27**{: .label .label-lecture } [Classifier Evaluation, Fairness Criteria](resources/lectures/lec27/lec27.html)":
             ""
           "**DIS 9**{: .label .label-disc } **Lab 9 Reflection**":
             ""

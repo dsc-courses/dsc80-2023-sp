@@ -19,7 +19,7 @@
           "**PROJ 4**{: .label .label-proj } **Language Models 🗣 (due 6/1)**":
       - date: 2023-6-2
         events:
-          "**LEC 25**{: .label .label-lecture } Cross-Validation":
+          "**LEC 25**{: .label .label-lecture } [Cross-Validation](resources/lectures/lec25/lec25.html)":
             " [Ch. 11.2](https://notes.dsc80.com/content/11/fitting-prediction.html)"
           
 ---
