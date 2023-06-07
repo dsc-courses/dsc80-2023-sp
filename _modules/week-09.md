@@ -20,6 +20,6 @@
       - date: 2023-6-2
         events:
           "**LEC 25**{: .label .label-lecture } [Cross-Validation](resources/lectures/lec25/lec25.html)":
-            " [Ch. 11.2](https://notes.dsc80.com/content/11/fitting-prediction.html)"
+            "[🎥](https://www.dropbox.com/sh/8vjkhtej59qqgmj/AADz4kN1NgwjZRbLHz7A9lhba?dl=0) / [Ch. 11.2](https://notes.dsc80.com/content/11/fitting-prediction.html)"
           
 ---
