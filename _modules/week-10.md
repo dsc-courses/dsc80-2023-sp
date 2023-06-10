@@ -5,7 +5,7 @@
       - date: 2023-6-5
         events:
           "**LEC 26**{: .label .label-lecture } [Classifier Evaluation](resources/lectures/lec26/lec26.html)":     
-            "" 
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/28)" 
           "**Lab 9**{: .label .label-lab } [Pipelines (due 6/6 at 4pm)](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/labs/09-sklearn/lab.ipynb)":
       - date: 2023-6-7
         events:
@@ -16,7 +16,7 @@
       - date: 2023-6-9
         events:
           "**LEC 28**{: .label .label-lecture } Conclusion (No New Slides!)":
-            ""
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc80_a00/29)"
       # - date: 2023-6-9
       #   events:
       #     "**SUR**{: .label .label-survey } **[End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSffA3AK7HDGq5HX5hENTKUPE-Z_8W9CXR-eTOp5yT39qd8A9A/viewform) + [CAPEs](https://cape.ucsd.edu) (due 3/18 at 8AM)**":
